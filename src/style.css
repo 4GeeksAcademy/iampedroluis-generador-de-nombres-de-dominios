@@ -1,1 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+li:hover {
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+  transition: 0.8s;
+}
